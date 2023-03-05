@@ -1,26 +1,18 @@
-<h1 align="center">Hi 👋, I'm Lior</h1>
-<h3 align="center">A passionate frontend developer from Israel Started</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lioko1&label=Profile%20views&color=0e75b6&style=flat" alt="lioko1" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DISCORD: LIOR#5050) 
 
-- 🔭 I’m currently working on [Tools Python](Soon)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LIOKO1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LIOKO1&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LIOKO1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Python, Lua, Js**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- 💬 Ask me about **All What you want**
+---
+[![](https://visitcount.itsvg.in/api?id=LIOKO1&icon=9&color=11)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **Discord: LIOR#5050**
-
-- ⚡ Fun fact **i think i great developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/LIOR#5050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LIOR#5050" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lioko1&show_icons=true&theme=dracula&title_color=004cff&text_color=00aaff&bg_color=00ccff&locale=en&layout=compact" alt="lioko1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lioko1&show_icons=true&theme=dark&text_color=ffffff&bg_color=3300ff&locale=en" alt="lioko1" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
